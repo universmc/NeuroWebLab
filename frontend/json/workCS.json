@@ -1,0 +1,42 @@
+{
+    "Projet": "Allocation Universelle basée sur le Curriculum Vitae",
+    "Instructions pour la Réalisation": [
+    {
+        "Étape": "Conceptualisation",
+        "Objectifs": [
+        "Créer un site web de présentation du projet étape par étape",
+        "Valorisation des compétences",
+        "Économie circulaire",
+        "Droit au travail rémunéré"
+        ],
+        "Tâches": [
+        "Générer les scripts fullstack de la single page (frontend+backend) avec les itérations de prompts sur les dépendances.",
+        "Dépendances : Frontend (index.html, style.css, build.scss, main.json, main.js, script.js, logo.svg, interface.svg, reactjs), Backend (workStep.json, workEcoStep.json, workneoFS, request.php, servers.js, database.sql, nodejs)"
+        ],
+        "Prompts": [
+        {
+            "PromptStep": "Décrivez en détail comment vous prévoyez de créer un site web étape par étape en mettant l'accent sur l'aspect de la valorisation des compétences.",
+            "PromptNextStep": "Quelle sera votre prochaine étape après avoir généré les scripts fullstack ?",
+            "PromptLoopStep": "Si vous rencontrez des difficultés lors du développement, n'hésitez pas à demander de l'aide. Quelle est votre question actuelle ?",
+            "PromptLastStep": "Avez-vous des réflexions sur la manière d'améliorer cette étape pour le futur ?"
+        }
+        ]
+    },
+    {
+        "Étape": "Développement du Curriculum Vitae Universel",
+        "Tâches": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps."
+        ],
+        "Prompts": [
+        {
+            "PromptStep": "Expliquez comment vous allez concevoir l'interface conviviale pour les utilisateurs de la plateforme.",
+            "PromptNextStep": "Quelles fonctionnalités spécifiques souhaitez-vous inclure dans la plateforme pour suivre les compétences et les expériences des utilisateurs ?",
+            "PromptLoopStep": "Si vous avez des questions concernant la conception de l'interface ou l'intégration du système de collecte de données, n'hésitez pas à les poser.",
+            "PromptLastStep": "Avez-vous des idées pour optimiser cette étape du projet ?"
+        }
+        ]
+    }
+    ]
+}
