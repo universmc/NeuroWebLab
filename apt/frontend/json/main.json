@@ -1,0 +1,125 @@
+{
+  "sections": [
+    {
+      "title": "Conceptualisation",
+      "content": [
+        "Créer un site web de présentation du projet étape par étape",
+        "Valorisation des compétences",
+        "Économie circulaire",
+        "Droit au travail rémunére"
+      ]
+    },
+    {
+      "title": "Développement full-stack ____.envdevop",
+      "content": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps."
+      ]
+    },
+    {
+      "title": "Configuration.envDevOps full-stack",
+      "content": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps."
+      ]
+    },
+    {
+      "title": "Identifiant, ETAPE-001",
+      "content": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps.",
+        "Identifiant ETAPE-001",
+        "Etape Conceptualisation",
+        "Temperature 0.5",
+        "Etat $currentIndex($etape++);",
+        "Metadonnees de Etape Réflexion initiale sur les objectifs et les ressources nécessaires.",
+        "dateCreate: 2023-01-01",
+        "dateUpdate: 2024-01-08",
+        "dateStatus: En cours",
+        "Taches:",
+        "Définition claire des objectifs du projet.",
+        "Identification des parties api clés et des ressources nécessaires.",
+        "prompts", "[",
+        "Prompt: Développer une compréhension approfondie des besoins du projet et planifier la structure de la plateforme.",
+        "PromptNextStep: Faire le bilan de l étape de Conceptualisation et préparer la liste des tâches pour le Développement Frontend.",
+        "PromptLooptStep: $prompt=(instructions de request pour $currentIndex(0);).",
+        "]"
+      ],
+      "contenuMarkdown": "docs/json/README.md"
+    },
+    {
+      "title": "Developpement frontend",
+      "content": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps."
+      ],
+      "step": [
+        "Identifiant: ETAPE-002",
+        "Etape: Développement Frontend",
+        "Temperature: 0.6",
+        "Etat: En cours de développement",
+        "Metadonnees de Etape: Création des composants frontend (HTML, CSS, JS) pour la présentation du projet.",
+        "Taches:",[
+        "Génération des scripts frontend (HTML, CSS, JS).",
+        "Conception d'une interface utilisateur conviviale et réactive."
+        ],
+        "prompts", "[",
+        "Prompt: Développer une compréhension approfondie des besoins backend",
+        "PromptNextStep: Faire le bilan de l étape de Conceptualisation et préparer la liste des tâches pour le Développement Frontend.",
+        "PromptLooptStep: $prompt=(instructions ajouter envoyer fetch()ou post() swader 'git push -g au $backend.",
+        "]"
+      ]
+    },
+    {
+      "title": "Developpement backend",
+      "content": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps.",
+        {
+          "Identifiant": "ETAPE-003",
+          "Etape": "Développement Backend",
+          "Temperature": 0.7,
+          "Etat": "En cours de développement",
+          "Metadonnees de l'Étape": "Création des scripts backend pour gérer les données et les interactions.",
+          "Taches": [
+          "Développement de scripts backend pour traiter les données (Node.js, PHP, SQL).",
+          "Intégration d'une API pour recueillir les feedbacks des utilisateurs."
+          ],
+          "Prompt": "Concevoir et implémenter des scripts backend robustes pour une intégration efficace avec le frontend.",
+          "PromptNextStep": "Réviser le développement Backend et préparer les phases de Tests et Validation.",
+          "PromptLooptStep": "$prompt=(instructions request pour uploader le backend pour mise à a jours en live direct;)."
+      }
+      ]
+    },
+    {
+      "title": "NeoFS trainnning model scriping",
+      "content": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps."
+      ]
+    },
+    {
+      "title": "updating swagger github version",
+      "content": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps."
+      ]
+    },
+    {
+      "title": "requestes, deploiement",
+      "content": [
+        "Créez une plateforme en ligne pour répertorier les compétences, formations et expériences dès l'âge de 16 ans.",
+        "Concevez une interface conviviale pour les utilisateurs.",
+        "Intégrez un système de collecte de données pour suivre les compétences et les expériences au fil du temps."
+      ]
+    }
+  ]
+}
+  

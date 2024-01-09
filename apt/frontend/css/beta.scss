@@ -1,0 +1,28 @@
+$primary: #2952a3;
+$secondary: #2a9d8f;
+$accent: #e9c46a;
+$background: #f4f4f4;
+$text: #333333;
+
+/* Example Button Styles */
+.button-primary {
+  background-color: $primary;
+  color: #fff;
+}
+
+.button-accent {
+  background-color: $accent;
+  color: #fff;
+}
+
+/* Input Styles */
+input[type='text'], input[type='email'], textarea {
+  border: 1px solid $border;
+  background-color: #fff;
+  color: $text;
+}
+
+// JavaScript for dynamic style manipulation
+//function updateTheme(primaryColor) {
+//  document.documentElement.style.setProperty('--primary', primaryColor);
+//}

@@ -1,0 +1,64 @@
+/* Réinitialisation des styles par défaut du navigateur */
+html, body, h1, h2, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles de base pour le corps de la page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Styles pour l'en-tête */
+header {
+    display: flex;
+    background-color: #041522;
+    color: rgb(159, 159, 159);
+    text-align: center;
+}
+.menu-circl-centent {
+    display: flex;
+    justify-content: center;
+    gap:30px;
+}
+.lab-circl {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: #003A68;
+}
+/* Styles pour les sections */
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles pour les titres de section */
+h2 {
+    font-size: 24px;
+    color: #003A68;
+}
+
+/* Styles pour les listes à puces */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Styles pour les éléments de liste */
+li {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+}

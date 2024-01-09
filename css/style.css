@@ -1,0 +1,105 @@
+/* style.css */
+html, body {
+  min-height: 100%;
+  min-width: 100%;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  min-width: 100%;
+  background-color: #333;
+  color: rgb(189, 187, 187);
+  text-align: center;
+}
+
+#sommaire {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  gap: 20px;
+  background-color: #eee;
+  padding: 15px;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+.menu-circl-centent {
+  display: flex;
+  justify-content: center;
+  gap:30px;
+}
+.lab-circl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #003A68;
+}
+main {
+  margin: 20px;
+}
+/* Styles pour les sections */
+section {
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.cours-content {
+  display: flex;
+  justify-content: space-between;
+}
+#contenuCours {
+  width: 90%;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.markdown-contenu {
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.markdown-contenu h1, .markdown-contenu h2, .markdown-contenu h3 {
+  color: #333;
+}
+
+.markdown-contenu p {
+  color: #666;
+}
+
+/* Ajoutez plus de styles ici selon vos besoins */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+h2, h3 {
+  margin: 0 0 10px 0;
+}
+
+p {
+  line-height: 1.6;
+}
+
+/*# sourceMappingURL=style.css.map */
