@@ -1,38 +1,117 @@
 /* style.css */
 html, body {
-  min-height: 100%;
-  min-width: 100%;
+  min-height: 100vh;
+  min-width: 100vh;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
-  color: #333;
 }
 
 header {
   display: flex;
-  width: 100%;
-  min-width: 100%;
+  min-width: 100vh;
   background-color: #333;
   color: rgb(189, 187, 187);
   text-align: center;
+  align-items: center;
 }
+.header-contenair {
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  align-items: center;
+  gap:20px;
+}
+.header-titre {
+  display: flex;
+}
+/* start lab */
+.lab{
+  display:flex;
+}
+.wirefram-config{
+  display:flex;
+  flex-direction: column;
+}
+.windows-lab-contenair{
+  display:flex;
+}
+.header-lab{
+  display:flex;
+}
+.cms{
+  display:flex;
+}
+.main-lab{
+  display:flex;
+}
+.windows-lab-contenair{
+  display:flex;
+  flex-direction: column;
+}
+.envdevops{
+  display: flex;
 
+}
+.dev-env{
+  display:flex;
+  width: 100%;
+  flex-direction: column;
+}
+.flex-r{
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  background: azure;
+}
+.flex-c{
+  display:flex;
+  flex-direction: column;
+  background: aquamarine;
+  height: 100px;
+  width: 10px;
+}
+.ln {
+  display: flex;
+  width: 100%;
+  height: 10px;
+  display: flex;
+  flex-direction: column;
+  background: aqua;
+}
+.footer-lab{
+  display:flex;
+}
 #sommaire {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 100%;
+  min-width: 90%;
   gap: 20px;
-  background-color: #eee;
-  padding: 15px;
+
   margin-right: 20px;
   border-radius: 5px;
 }
+.sommaire-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100px;
+  border:2px solid;
+  border-radius: 5%;
+  border-color: #003A68;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  background-color: #eee;
+}
+
 .menu-circl-centent {
   display: flex;
+  align-items: center;
   justify-content: center;
   gap:30px;
+  margin-bottom: 20px;
 }
 .lab-circl {
   display: flex;
@@ -41,9 +120,12 @@ header {
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  background-color: #003A68;
+  background-color: #eee;
 }
 main {
+  display: flex;
+  flex-direction: column;
+  min-height: 80vh;
   margin: 20px;
 }
 /* Styles pour les sections */
@@ -92,6 +174,7 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+  min-height: 10vh;
 }
 
 h2, h3 {
