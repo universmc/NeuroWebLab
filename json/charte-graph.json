@@ -1,0 +1,45 @@
+{
+    "palettes": {
+      "blancEtGris": "Blanc et Gris Clair pour un fond propre et épuré.",
+      "couleursLangages": {
+        "JavaScript": "bleu",
+        "Python": "vert",
+        "Ruby": "rouge"
+      }
+    },
+    "uiElements": {
+      "navigation": "Intégration de la palette de gris clairs dans les éléments d'interface.",
+      "langageCategorisation": "Utilisation de couleurs spécifiques pour les langages de programmation dans l'UI."
+    },
+    "responsiveDesign": {
+      "coherence": "Cohérence sur différents appareils.",
+      "lisibilite": "Test de la lisibilité des combinaisons de couleurs."
+    },
+    "designConseils": {
+      "minimalisme": "Gardez le design simple et sans encombrement.",
+      "animations": "Utilisez des animations légères."
+    },
+    "svgSass": {
+      "svgGraphiques": "Utilisation de SVG pour les graphiques complexes.",
+      "sassStyling": "Organisation des styles avec SASS."
+    },
+    "polices": {
+      "arial": "Arial pour une lisibilité et simplicité.",
+      "ascii": "Utilisation d'ASCII Art dans des zones moins formelles."
+    },
+    "composantsModeles": {
+      "composantsReutilisables": "Conception de composants UI réutilisables.",
+      "modelesPage": "Création de templates de page standard."
+    },
+    "notesAdditionnelles": "Respect de la charte graphique pour une cohérence dans l'UI.",
+    "inputFormulaires": {
+      "bordure": "#dcdcdc",
+      "fond": "Blanc",
+      "texte": "Texte"
+    },
+    "iconesImages": {
+      "images": "Haute résolution, pertinentes au contenu.",
+      "icones": "Style simple et géométrique."
+    }
+  }
+  

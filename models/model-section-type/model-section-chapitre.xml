@@ -1,0 +1,15 @@
+<section>
+    <article>
+        <chapitre>
+            <titre>Titre du Chapitre 1</titre>
+            <img src="chemin/vers/image1.png" />
+            <text>Contenu du Chapitre 1</text>
+        </chapitre>
+        <chapitre>
+            <titre>Titre du Chapitre 2</titre>
+            <img src="chemin/vers/image2.png" />
+            <text>Contenu du Chapitre 2</text>
+        </chapitre>
+    </article>
+    <!-- Autres articles et chapitres -->
+</section>

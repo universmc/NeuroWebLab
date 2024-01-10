@@ -1,0 +1,30 @@
+<meta>
+    <kernel>
+        <quark>
+            <particulesElementaires>
+                <atome>
+                    <molécule>
+                        <cellule>
+                            <vi>
+                                <intelligence>
+                                    <technologie>
+                                        <ordinateur>
+                                            <internet>
+                                                <cloud>
+                                                    <cluster>
+                                                        <!-- Ici, vous pouvez insérer l'image ou la référence à l'image du logo. -->
+                                                        <img src="chemin/vers/le/logo.png" alt="Logo NeoFS"/>
+                                                    </cluster>
+                                                </cloud>
+                                            </internet>
+                                        </ordinateur>
+                                    </technologie>
+                                </intelligence>
+                            </vi>
+                        </cellule>
+                    </molécule>
+                </atome>
+            </particulesElementaires>
+        </quark>
+    </kernel>
+</meta>

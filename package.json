@@ -1,0 +1,14 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style": "sass --watch build/main.scss css/main.css ",
+    "env-devops": "sass build/stylus/devops.scss css/devops.css "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

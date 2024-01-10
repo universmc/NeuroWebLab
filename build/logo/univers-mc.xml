@@ -1,0 +1,210 @@
+<univers-mc>
+    <univers>
+    <nebuleuses>
+            <nebuleuse nom="cosmos">
+            <galaxies>
+                <galaxie nom="Galaxie1">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha">kernel</planete>
+                                    <planete nom="planete_beta">kernel</planete>
+                                <!-- D'autres planètes -->
+                                <planetes>
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire2">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha2"kernel></planete>
+                                    <planete nom="planete_beta2">kernel</planete>
+                                <!-- D'autres planètes -->
+                                <planetes>
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <galaxie nom="Galaxie2">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire-alpha">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha3">kernel</planete>
+                                    <planete nom="planete_beta3">kernel</planete>
+                                <!-- D'autres planètes -->
+                                </planetes>
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire-beta">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha4"></planete>
+                                    <planete nom="planete_beta4"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <galaxie nom="Galaxie1">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire-alpha2">
+                                <planetes nom="planetes">
+                                <planete nom="planete_alpha4"></planete>
+                                <planete nom="planete_beta4"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire-beta2">
+                                <planetes nom="planetes">
+                                <planete nom="planete_alpha5"></planete>
+                                <planete nom="planete_beta6"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <!-- D'autres galaxies -->
+            </galaxies>
+        </nebuleuse>
+        <nebuleuse nom="Nebuleuse">
+            <galaxies>
+                <galaxie nom="Galaxie1">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha">kernel</planete>
+                                    <planete nom="planete_beta">kernel</planete>
+                                <!-- D'autres planètes -->
+                                <planetes>
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire2">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha2"kernel></planete>
+                                    <planete nom="planete_beta2">kernel</planete>
+                                <!-- D'autres planètes -->
+                                <planetes>
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <galaxie nom="Galaxie2">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire-alpha">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha3">kernel</planete>
+                                    <planete nom="planete_beta3">kernel</planete>
+                                <!-- D'autres planètes -->
+                                </planetes>
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire-beta">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha4"></planete>
+                                    <planete nom="planete_beta4"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <galaxie nom="Galaxie1">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire-alpha2">
+                                <planetes nom="planetes">
+                                <planete nom="planete_alpha4"></planete>
+                                <planete nom="planete_beta4"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire-beta2">
+                                <planetes nom="planetes">
+                                <planete nom="planete_alpha5"></planete>
+                                <planete nom="planete_beta6"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <!-- D'autres galaxies -->
+            </galaxies>
+        </nebuleuse>
+                <nebuleuse nom="Nebuleuse1">
+            <galaxies>
+                <galaxie nom="Galaxie1">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha">kernel</planete>
+                                    <planete nom="planete_beta">kernel</planete>
+                                <!-- D'autres planètes -->
+                                <planetes>
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire2">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha2"kernel></planete>
+                                    <planete nom="planete_beta2">kernel</planete>
+                                <!-- D'autres planètes -->
+                                <planetes>
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <galaxie nom="Galaxie2">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire-alpha">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha3">kernel</planete>
+                                    <planete nom="planete_beta3">kernel</planete>
+                                <!-- D'autres planètes -->
+                                </planetes>
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire-beta">
+                                <planetes nom="planetes">
+                                    <planete nom="planete_alpha4"></planete>
+                                    <planete nom="planete_beta4"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <galaxie nom="Galaxie1">
+                    <constelations>
+                        <systemeSolaires>
+                            <systemeSolairse nom="SystemeSolaire-alpha2">
+                                <planetes nom="planetes">
+                                <planete nom="planete_alpha4"></planete>
+                                <planete nom="planete_beta4"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                               <systemeSolairse nom="SystemeSolaire-beta2">
+                                <planetes nom="planetes">
+                                <planete nom="planete_alpha5"></planete>
+                                <planete nom="planete_beta6"></planete>
+                                <!-- D'autres planètes -->
+                                <planetes nom="planetes">
+                            </systemeSolairse>
+                        </systemeSolairses>
+                        <!-- D'autres systèmes solaires -->
+                    </constelations>
+                </galaxie>
+                <!-- D'autres galaxies -->
+            </galaxies>
+        </nebuleuse>
+    </nebuleuses>
+    </univers>
+</univers-mc>

@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* style.css */
 html, body {
   min-height: 100vh;
@@ -7,6 +8,7 @@ html, body {
   padding: 0;
   background-color: #f4f4f4;
 }
+
 /* charte-graph */
 .charte-graphique h2 {
   color: #333;
@@ -32,7 +34,6 @@ html, body {
 }
 
 /* Ajoutez des styles supplémentaires pour les icônes SVG ici */
-
 header {
   display: flex;
   min-width: 100vh;
@@ -41,62 +42,75 @@ header {
   text-align: center;
   align-items: center;
 }
+
 .header-contenair {
   display: flex;
   flex-direction: column;
   min-width: 100%;
   align-items: center;
-  gap:20px;
+  gap: 20px;
 }
+
 .header-titre {
   display: flex;
 }
-/* start lab */
-.lab{
-  display:flex;
-}
-.wirefram-config{
-  display:flex;
-  flex-direction: column;
-}
-.windows-lab-contenair{
-  display:flex;
-}
-.header-lab{
-  display:flex;
-}
-.cms{
-  display:flex;
-}
-.main-lab{
-  display:flex;
-}
-.windows-lab-contenair{
-  display:flex;
-  flex-direction: column;
-}
-.envdevops{
-  display: flex;
 
+/* start lab */
+.lab {
+  display: flex;
 }
-.dev-env{
-  display:flex;
+
+.wirefram-config {
+  display: flex;
+  flex-direction: column;
+}
+
+.windows-lab-contenair {
+  display: flex;
+}
+
+.header-lab {
+  display: flex;
+}
+
+.cms {
+  display: flex;
+}
+
+.main-lab {
+  display: flex;
+}
+
+.windows-lab-contenair {
+  display: flex;
+  flex-direction: column;
+}
+
+.envdevops {
+  display: flex;
+}
+
+.dev-env {
+  display: flex;
   width: 100%;
   flex-direction: column;
 }
-.flex-r{
+
+.flex-r {
   display: flex;
   flex-direction: row;
   width: 300px;
   background: azure;
 }
-.flex-c{
-  display:flex;
+
+.flex-c {
+  display: flex;
   flex-direction: column;
   background: aquamarine;
   height: 100px;
   width: 10px;
 }
+
 .ln {
   display: flex;
   width: 100%;
@@ -105,26 +119,28 @@ header {
   flex-direction: column;
   background: aqua;
 }
-.footer-lab{
-  display:flex;
+
+.footer-lab {
+  display: flex;
 }
+
 #sommaire {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   min-width: 90%;
   gap: 20px;
-
   margin-right: 20px;
   border-radius: 5px;
 }
+
 .sommaire-link {
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
   width: 100px;
-  border:2px solid;
+  border: 2px solid;
   border-radius: 5%;
   border-color: #003A68;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -135,9 +151,10 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap:30px;
+  gap: 30px;
   margin-bottom: 20px;
 }
+
 .lab-circl {
   display: flex;
   align-items: center;
@@ -147,16 +164,19 @@ header {
   border-radius: 50%;
   background-color: #eee;
 }
+
 .icon-contenair {
   display: flex;
   justify-content: row;
 }
+
 main {
   display: flex;
   flex-direction: column;
   min-height: 80vh;
   margin: 20px;
 }
+
 /* Styles pour les sections */
 section {
   background-color: white;
@@ -165,6 +185,7 @@ section {
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
 .mdContainer {
   font-family: Arial, sans-serif;
   margin: 20px;
@@ -190,6 +211,7 @@ section {
   display: flex;
   justify-content: space-between;
 }
+
 #contenuCours {
   width: 90%;
   background-color: white;
@@ -235,4 +257,6 @@ p {
   line-height: 1.6;
 }
 
-/*# sourceMappingURL=style.css.map */
+
+
+/*# sourceMappingURL=main.css.map */
