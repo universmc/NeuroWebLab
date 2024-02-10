@@ -1,0 +1,25 @@
+{
+    "steps": [
+        {
+            "stepNumber": 1,
+            "title": "Étape 1",
+            "content": "Contenu de l'étape 1. Vous pouvez ajouter du texte, des images ou d'autres éléments ici.",
+            "buttonTextNext": "Suivant",
+            "buttonTextPrev": "Précédent"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Étape 2",
+            "content": "Contenu de l'étape 2. Personnalisez cette étape en fonction de vos besoins.",
+            "buttonTextNext": "Suivant",
+            "buttonTextPrev": "Précédent"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Étape 3",
+            "content": "Contenu de l'étape 3. Ajoutez du contenu pertinent pour cette étape.",
+            "buttonTextNext": "Terminer",
+            "buttonTextPrev": "Précédent"
+        }
+    ]
+}

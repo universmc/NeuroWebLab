@@ -1,0 +1,35 @@
+/* db-style.css */
+
+.gantt-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.gantt-table th, .gantt-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Lignes paires et impaires */
+.gantt-table tr:nth-child(even) {background-color: #f2f2f2;}
+.gantt-table tr:nth-child(odd) {background-color: #ffffff;}
+
+/* Styles pour les phases */
+.phase-row {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Styles pour les tâches */
+.task-row {
+    background-color: #e9ecef;
+}
+
+/* Styles pour les étapes */
+.step-row {
+    background-color: #ffc107;
+    color: black;
+}
+
+/* Ajoutez ici d'autres styles spécifiques au tableau */

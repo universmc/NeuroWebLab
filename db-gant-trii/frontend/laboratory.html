@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/lab.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="laboratory">
+	<div class="lab-contenair">
+            <div class="header-lab">
+		<div class="headerContenair">
+                <button class="goPrevLeft">[<]</button>
+                <!-- Vous pouvez placer le déclencheur de la modale "edit" ici -->
+                <button id="openModalBtn">edit "modal"</button>
+		<button class="goNextRight">[>]</button>
+                </div>
+            </div>
+            <div class="main-lab">
+		<div class="mainContenair">
+                <!-- Le contenu principal du laboratoire -->
+                </div>
+	    </div>
+            <div class="footer-lab">
+                <div class="footerContenair"> 
+                <!-- Le pied de page du laboratoire -->
+                </div>
+	    </div>
+	</div>
+        </div>
+        <div class="modal-overlay" id="modalOverlay">
+            <div class="modal-content" id="modalContent">
+                <!-- Le contenu du modal sera généré dynamiquement ici -->
+            </div>
+        </div>
+    </div>
+    <script src="js/btn-arrow.js"></script>
+    <script src="js/modal.js"></script>
+</body>
+</html>

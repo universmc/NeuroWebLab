@@ -1,0 +1,74 @@
+ouleurs */
+body {
+    background-color: #f0f0f0; /* Couleur de fond générale */
+    color: #333; /* Couleur de texte principale */
+}
+
+/* Titres */
+h1, h2, h3 {
+    font-family: 'Your Chosen Font', sans-serif; /* Police de caractères pour les titres */
+    color: #007acc; /* Couleur des titres */
+}
+
+/* Styles de texte */
+strong {
+    font-weight: bold; /* Texte en gras */
+}
+/* Style général pour le mail */
+.mail-container {
+    background-color: #1a1a1a; /* Fond noir pour le mail */
+    color: #fff; /* Texte en blanc pour le mail */
+    font-family: Arial, sans-serif; /* Police générale */
+}
+
+/* Styles pour les sections */
+.section {
+    background-color: #333; /* Fond gris foncé pour les sections */
+    padding: 20px; /* Espacement interne pour les sections */
+    margin: 20px 0; /* Marge extérieure pour les sections */
+    border-radius: 8px; /* Coins arrondis pour les sections */
+}
+
+/* Styles pour les articles */
+.article {
+    background-color: #2e2e2e; /* Fond gris pour les articles */
+    padding: 15px; /* Espacement interne pour les articles */
+    margin: 10px 0; /* Marge extérieure pour les articles */
+    border-radius: 4px; /* Coins arrondis pour les articles */
+}
+
+/* Style pour les liens */
+a {
+    color: #3399ff; /* Couleur des liens bleus */
+    text-decoration: none; /* Pas de soulignement pour les liens */
+}
+
+a:hover {
+    text-decoration: underline; /* Soulignement au survol des liens */
+}
+
+/* Style pour les titres */
+h1, h2, h3 {
+    color: #fff; /* Couleur blanche pour les titres */
+}
+
+/* Style pour le texte */
+p {
+    color: #ccc; /* Couleur gris clair pour le texte */
+} 
+/* style components */
+
+.button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Ajoutez ici d'autres styles généraux */

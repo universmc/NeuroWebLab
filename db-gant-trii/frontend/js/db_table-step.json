@@ -1,0 +1,91 @@
+```json
+{
+    "phases": [
+        {
+            "id": 1,
+            "name": "Phase 1 - Conception",
+            "description": "Description de la phase de conception.",
+            "status": "in-progress",
+            "start_date": "2024-01-20",
+            "end_date": "2024-02-15",
+            "steps": [
+                {
+                    "step_number": 1,
+                    "tasks": [
+                        {
+                            "task_name": "Créer un compte pour la gestion des intentions du Backend.",
+                            "task_prompt": "Prompt modèle pour la gestion des intentions du Backend."
+                        },
+                        {
+                            "task_name": "Configurer les outils de conception.",
+                            "task_prompt": "Prompt modèle pour la configuration des outils de conception."
+                        }
+                    ]
+                },
+                {
+                    "step_number": 2,
+                    "tasks": [
+                        {
+                            "task_name": "Valider la conception avec l'équipe.",
+                            "task_prompt": "Prompt modèle pour la validation de la conception."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Phase 2 - Configuration Full Stack DevOps",
+            "description": "Description de la phase de configuration Full Stack DevOps.",
+            "status": "not-started",
+            "start_date": "",
+            "end_date": "",
+            "steps": []
+        },
+        {
+            "id": 3,
+            "name": "Phase 3 - Configuration du Backend",
+            "description": "Description de la phase de configuration du Backend.",
+            "status": "not-started",
+            "start_date": "",
+            "end_date": "",
+            "steps": []
+        },
+        {
+            "id": 4,
+            "name": "Phase 4 - Configuration du Frontend",
+            "description": "Description de la phase de configuration du Frontend, charte graphique.",
+            "status": "not-started",
+            "start_date": "",
+            "end_date": "",
+            "steps": []
+        },
+        {
+            "id": 5,
+            "name": "Phase 5 - Entraînement de Neos",
+            "description": "Description de la phase d'entraînement de Neos.",
+            "status": "not-started",
+            "start_date": "",
+            "end_date": "",
+            "steps": []
+        },
+        {
+            "id": 6,
+            "name": "Phase 6 - Test et Validation",
+            "description": "Description de la phase de test et validation.",
+            "status": "not-started",
+            "start_date": "",
+            "end_date": "",
+            "steps": []
+        },
+        {
+            "id": 7,
+            "name": "Phase 7 - Déploiement et Enregistrement",
+            "description": "Description de la phase de déploiement et enregistrement.",
+            "status": "not-started",
+            "start_date": "",
+            "end_date": "",
+            "steps": []
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+/* Styles spécifiques à Neofs */
+.neofs-container {
+    background-color: #ffcc00; /* Couleur de fond jaune pour Neofs */
+}
+
+.neofs-title {
+    color: #009900; /* Couleur de titre verte pour Neofs */
+}
+
+.neofs-text {
+    font-weight: bold; /* Texte en gras pour Neofs */
+}
+
+/* Styles généraux */
+body {
+    background-color: #f0f0f0; /* Couleur de fond générale */
+    color: #333; /* Couleur de texte principale */
+}
+```
+
+**Zira-style.css** :
+```css
+/* Styles spécifiques à Zira */
+.zira-container {
+    background-color: #ff3300; /* Couleur de fond rouge pour Zira */
+}
+
+.zira-title {
+    color: #6600cc; /* Couleur de titre violette pour Zira */
+}
+
+.zira-text {
+    font-style: italic; /* Texte en italique pour Zira */
+}
+
+/* Styles généraux */
+body {
+    background-color: #f0f0f0; /* Couleur de fond générale */
+    color: #333; /* Couleur de texte principale */
+}

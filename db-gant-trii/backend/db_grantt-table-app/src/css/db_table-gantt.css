@@ -1,0 +1,50 @@
+dth: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+/* Style de l'en-tête */
+.gantt-table th {
+  background-color: #333;
+  color: white;
+  text-align: left;
+  padding: 10px;
+}
+
+/* Style des lignes de la table */
+.gantt-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+/* Style des lignes impaires pour une meilleure lisibilité */
+.gantt-table tbody tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+/* Style de la progression (par exemple, une barre de progression) */
+.gantt-progress {
+  height: 20px;
+  background-color: #0078d4; /* Couleur de la progression */
+  position: relative;
+  overflow: hidden;
+}
+
+/* Style de la progression textuelle */
+.gantt-progress-text {
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 3px;
+  font-weight: bold;
+}
+
+/* Style pour la barre de progression */
+.gantt-progress-bar {
+  height: 100%;
+  width: 0; /* La largeur sera définie dynamiquement en pourcentage */
+  background-color: #0078d4; /* Couleur de la progression */
+}
