@@ -1,0 +1,57 @@
+{
+    "description": "Préparation de l'environnement de développement Web pour les instances avec CPU Groq, optimisé pour groq-sdk.",
+    "roles": [
+        {
+          "title": "Développeur Frontend",
+          "skills": ["HTML", "CSS", "JavaScript"],
+          "responsibilities": "Création et conception des interfaces utilisateur."
+        },
+        {
+          "title": "Développeur Backend",
+          "skills": ["PHP", "JSON"],
+          "responsibilities": "Création et maintenance des fonctionnalités serveur."
+        },
+        {
+          "title": "DevOps fullstack",
+          "skills": ["Groq SDK", "CI/CD", "Monitoring"],
+          "responsibilities": "Gestion des pipelines de déploiement et surveillance des performances de la plateforme."
+        },
+        {
+          "title": "Ingénieur en Machine Learning",
+          "skills": ["Python", "R", "SQL"],
+          "responsibilities": "Conception et entraînement de modèles de machine learning."
+        },
+        {
+          "title": "Spécialiste en Intelligence Artificielle",
+          "skills": ["JavaScript", "JSON"],
+          "responsibilities": "Maintenance des algorithmes d'intelligence artificielle."
+        },
+        {
+          "title": "Ingénieur en données",
+          "skills": ["JavaScript", "JSON", "Swagger"],
+          "responsibilities": "Gestion et analyse des données."
+        },
+        {
+          "title": "Architecte de solutions",
+          "skills": ["Groq SDK", "VSCode", "Zsh", "Makefile"],
+          "responsibilities": "Création et maintenance de l'architecture de l'application."
+        },
+        {
+          "title": "Spécialiste en cybersécurité",
+          "skills": ["JWT", "SHA256"],
+          "responsibilities": "Sécurité des données et des applications."
+        }
+    ],
+    "projectLeader": {
+        "name": "Chef de projet Mike",
+        "contact": {
+          "DNS": "https://univers-mc.cloud",
+          "email": "hubmaster74@hubmaster.com",
+          "github": "https://www.github.com/universmc/",
+          "huggingFace": "https://hf.co/chat/assistant/65c67df94ac5430e1dcc067c",
+          "gptAssistant": "asst_XkKiL6uKsIBsXJ8QDlvWAZKv",
+          "groqModel": "mixtral-8x7b-32768"
+        }
+    }
+}
+  

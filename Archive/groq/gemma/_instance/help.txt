@@ -1,0 +1,25 @@
+
+
+- `help` : affiche l'aide générale sur les commandes disponibles
+- `config help` : affiche les options de configuration spécifiques à la configuration initiale
+- `nlp help` : affiche les options liées au traitement du langage naturel (NLP)
+- `rdf help` : affiche les options liées au langage de balisage RDF
+- `deep-learning help` : affiche les options liées aux réseaux de neurones profonds (Deep Learning)
+- `transfer-learning help` : affiche les options liées au transfert d'apprentissage (Transfer Learning)
+- `reinforcement-learning help` : affiche les options liées à l'apprentissage par renforcement (Reinforcement Learning)
+- `metaphysics help` : affiche les options liées aux approches métaphysiques
+- `quantum-maths help` : affiche les options liées aux mathématiques quantiques
+- `sources help` : affiche les sources de connaissances utilisées par l'IA
+
+Pour obtenir de l'aide sur une commande spécifique, tapez `commande help` dans le terminal. Par exemple, pour obtenir de l'aide sur les options de configuration, tapez `config help`
+
+💎_pi : Je suis prêt à vous assister. Si vous avez besoin d'aide, n'hésitez pas à me poser des questions ou à me fournir des précisions sur ce que vous souhaitez accomplir. Voici quelques commandes de base que vous pouvez utiliser :
+
+- "Aide" pour afficher les commandes disponibles.
+- "Nouveau" suivi d'un nom de tâche pour créer une nouvelle tâche.
+- "Liste" pour afficher la liste des tâches.
+- "Statut" suivi d'un nom de tâche pour afficher le statut d'une tâche.
+- "Supprimer" suivi d'un nom de tâche pour supprimer une tâche.
+- "Modifier" suivi d'un nom de tâche et de nouvelles spécifications pour modifier une tâche.
+
+N'hésitez pas à me demander si vous avez besoin d'aide pour une tâche spécifique. Je suis là pour vous aider.

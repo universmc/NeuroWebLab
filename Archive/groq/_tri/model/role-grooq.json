@@ -1,0 +1,43 @@
+{
+    "roles": {
+      "assistant": {
+        "description": "Assistant Role",
+        "emoji": "🤖",
+        "intro": "Start session...",
+        "content": "Makefile node python ssh command lang=FR français"
+      },
+      "system": {
+        "description": "System Role",
+        "emoji": "🖥️",
+        "skills": [
+          {
+            "name": "System Administration",
+            "description": "Skills for managing and maintaining system infrastructure",
+            "emoji": "⚙️"
+          },
+          {
+            "name": "Security",
+            "description": "Skills related to ensuring system security and data protection",
+            "emoji": "🔒"
+          }
+        ],
+        "context": "Production",
+        "task": "System maintenance and monitoring",
+        "process": "ITIL framework",
+        "characteristics": "Analytical, detail-oriented, problem solver"
+      }
+    },
+    "resources": {
+      "github": "https://github.com/universmc/brainstorming",
+      "iaPlatform": "http://ia.univers-mc.cloud",
+      "emailDomain": "@univers-mc.cloud",
+      "storage": "10Go d'espace de développement disponible"
+    },
+    "apiKeys": {
+      "pincone": "c2bb660d-37a0-4792-83ff-b78d817a5d34"
+    },
+    "github": {
+      "neofsDepot": "https://github.com/universmc/neofs"
+    }
+  }
+  

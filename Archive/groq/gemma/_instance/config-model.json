@@ -1,0 +1,11 @@
+{
+    "promptModel": "Nous allons travailler sur cette fonctionnalité pour définir ce que l'on appelle notre modèle de phrase. Celui-ci commence par une majuscule et se termine par un point. Par exemple, définir la virgule serait comme ajouter dans une phrase un complément d'objet direct ou un objet direct en JavaScript, ou bien un élément asynchrone en JavaScript où un objet est un fichier JSON.",
+    "author": "Pi 3.14",
+    "version": "1.0",
+    "date": "2023-03-10",
+    "language": "JavaScript",
+    "dependencies": {
+      "Groq": "1.0"
+  }
+  }
+  

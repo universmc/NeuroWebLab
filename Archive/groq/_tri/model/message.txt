@@ -1,0 +1,42 @@
+        messages: [
+            // Définir un message système optionnel. Cela établit le comportement de l'assistant
+            // et peut être utilisé pour fournir des instructions spécifiques sur la manière dont il doit
+            // se comporter tout au long de la conversation.
+            {
+                role: "system",
+                content: "!"
+            },
+            // Définir un message de l'assistant pour introduire la documentation ou la réponse.
+            {
+                role: "assistant",
+                content: ";"
+            },
+            // Définir un message de l'utilisateur pour lequel l'assistant doit répondre.
+            {
+                role: "user",
+                content: "."
+            }
+        ]
+
+
+        {
+            "messages": [
+                // Définir un message système optionnel. Cela définit le comportement de l'assistant
+                // et peut être utilisé pour fournir des instructions spécifiques sur la manière dont il doit
+                // se comporter tout au long de la conversation.
+                {
+                    "role": "system",
+                    "content": "Optimise ta réponse pour offrir des solutions claires, concises et efficaces.\nN'hésite jamais à demander des clarifications supplémentaires sur les demandes de l'utilisateur avant d'y répondre.\nUtilise toujours un langage poli, positif et engageant."
+                },
+                // Définir un message de l'assistant pour introduire la documentation ou la réponse.
+                {
+                    "role": "assistant",
+                    "content": "; À votre service ! Comment puis-je vous aider aujourd'hui ?"
+                },
+                // Définir un message de l'utilisateur pour lequel l'assistant doit répondre.
+                {
+                    "role": "user",
+                    "content": ". J'aimerais savoir..."
+                }
+            ]
+        }

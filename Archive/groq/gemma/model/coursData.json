@@ -1,0 +1,146 @@
+[       
+
+    {
+        "titre": "groq - L ",
+        "sousSections": [
+
+            {
+                "sousTitre": "transfert learning devops",
+                "contenu": "Bonnes pratiques devops pour la programmation en groq-L et la maintenance des applications web."
+            },
+            {
+                "sousTitre": "Introduction a groq - L",
+                "contenuMarkdown": "docs/groq-cours.md"
+            }
+        ]
+    },
+    {
+        "titre": "Exemples de scripts Groq",
+        "sousSections": [
+        {
+        "sousTitre": "Création d'une instance",
+        "contenuMarkdown": "docs/instance.md"
+        },
+        {
+        "sousTitre": "Liste d'exemples de scripts",
+        "contenuMarkdown": "docs/exemple-intro-genere.md"
+        },
+        {
+        "sousTitre": "Système de relayeur d'assistant",
+        "contenuMarkdown": "docs/groq-script-relayeur.md"
+        },
+        {
+        "sousTitre": "Rôle d'assisant persona en tant que mentor",
+        "contenuMarkdown": "docs/groq-script-mentor.md"
+        },
+        {
+            "sousTitre": "Génération d'une somme idée",
+            "contenuMarkdown": "docs/groq-script-somme-idee.md"
+        },
+        {
+            "sousTitre": "Générateur de fichiers HTML et CSS",
+            "contenuMarkdown": "docs/groq-script-generateur-html-css.md"
+        },
+        {
+            "sousTitre": "Système de synchronisation d'informations",
+            "contenuMarkdown": "docs/groq-script-synchronisation.md"
+        },
+        {
+        "sousTitre": "Entrée d'un Euro",
+        "contenuMarkdown": "docs/groq-script-euro.md"
+        }
+        ]
+        },
+        
+
+    {
+        "titre": "Installation et configuration",
+        "sousSections": [
+
+            {
+                "sousTitre": "transfert learning devops",
+                "contenu": "Bonnes pratiques devops pour la programmation en groq-L et la maintenance des applications web."
+            },
+            {
+                "sousTitre": "Introduction a groq - L",
+                "contenuMarkdown": "docs/chapitre.md"
+            }
+        ]
+    },
+
+    {
+        "titre": "Structure et syntaxe",
+        "sousSections": [
+
+            {
+                "sousTitre": "transfert learning devops",
+                "contenu": "Bonnes pratiques devops pour la programmation en groq-L et la maintenance des applications web."
+            },
+            {
+                "sousTitre": "Introduction a groq - L",
+                "contenuMarkdown": "docs/groq-cours.md"
+            }
+        ]
+    },
+
+    {
+        "titre": "Programmation avancée",
+        "sousSections": [
+
+            {
+                "sousTitre": "transfert learning devops",
+                "contenu": "Bonnes pratiques devops pour la programmation en groq-L et la maintenance des applications web."
+            },
+            {
+                "sousTitre": "Introduction a groq - L",
+                "contenuMarkdown": "docs/groq-cours.md"
+            }
+        ]
+    },
+
+    {
+        "titre": "Intégration avec d'autres systèmes",
+        "sousSections": [
+
+            {
+                "sousTitre": "transfert learning devops",
+                "contenu": "Bonnes pratiques devops pour la programmation en groq-L et la maintenance des applications web."
+            },
+            {
+                "sousTitre": "Introduction a groq - L",
+                "contenuMarkdown": "docs/groq-cours.md"
+            }
+        ]
+    },
+
+    {
+        "titre": "Déploiement et maintenance",
+        "sousSections": [
+
+            {
+                "sousTitre": "transfert learning devops",
+                "contenu": "Bonnes pratiques devops pour la programmation en groq-L et la maintenance des applications web."
+            },
+            {
+                "sousTitre": "Introduction a groq - L",
+                "contenuMarkdown": "docs/groq-cours.md"
+            }
+        ]
+    },
+
+    {
+        "titre": "Exemples de scripts et applications",
+        "sousSections": [
+
+            {
+                "sousTitre": "transfert learning devops",
+                "contenu": "Bonnes pratiques devops pour la programmation en groq-L et la maintenance des applications web."
+            },
+            {
+                "sousTitre": "Introduction a groq - L",
+                "contenuMarkdown": "docs/groq-cours-exemples.md"
+            }
+        ]
+    }
+
+]

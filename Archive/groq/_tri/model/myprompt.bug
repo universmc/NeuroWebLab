@@ -1,0 +1,28 @@
+const MyPrompt = require('./myprompt.bug');
+function MyPrompt(
+    ) {
+      const promptGPT = {
+        role: "",
+        skills: "",
+        context: "",
+        task: "",
+        process: "",
+        characteristics: ""
+    };
+    
+      const setPromptGPT = (key, value) => {
+        promptGPT[key] = value;
+      };
+    
+      const generatePrompt = (
+    ) => {
+        return `Tu es ${promptGPT.role}. Tu maîtrises ${promptGPT.skills}.
+    
+    Mon contexte est ${promptGPT.context}.
+    
+    Tu vas ${promptGPT.task}.
+    
+    Pour ça, voici les étapes à suivre : ${promptGPT.process}.
+    
+    Voici les caractéristiques du résultat attendu : ${promptGPT.c
+    module.exports = MyPrompt;
