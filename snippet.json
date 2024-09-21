@@ -1,0 +1,59 @@
+{
+    "snippets": [
+    {
+    "name": "Express",
+    "description": "Framework de création d'applications Web en Node.js",
+    "typicalUse": "Serveur Web, APIs",
+    "dependencies": ["Node.js"],
+    "codeExample": {
+    "javascript": "const express = require('express'); const app = express();"
+    }
+    },
+    {
+    "name": "Node-Emoji",
+    "description": "Bibliothèque Node.js pour afficher les emojis",
+    "typicalUse": "Affichage de messages, emoji",
+    "dependencies": ["Node.js"],
+    "codeExample": {
+    "javascript": "const nodeEmoji = require('node-emoji'); console.log(nodeEmoji.emoji('apple'));"
+    }
+    },
+    {
+    "name": "TensorFlow",
+    "description": "Bibliothèque JavaScript pour TensorFlow",
+    "typicalUse": "Apprentissage automatique, intelligence artificielle",
+    "dependencies": ["Node.js"],
+    "codeExample": {
+    "javascript": "const tf = require('@tensorflow/tfjs-node'); const a = tf.tensor1d([1, 2, 3]);"
+    }
+    },
+    {
+    "name": "React",
+    "description": "Bibliothèque JavaScript pour créer des interfaces utilisateur",
+    "typicalUse": "Application Web, interface utilisateur",
+    "dependencies": ["Node.js"],
+    "codeExample": {
+    "javascript": "import React from 'react'; const App = () => { return <div>Hello, React!</div>; };"
+    }
+    },
+    {
+    "name": "Next.js",
+    "description": "Framework de développement Web pour React",
+    "typicalUse": "Application Web, interface utilisateur",
+    "dependencies": ["Node.js", "React"],
+    "codeExample": {
+    "javascript": "import Link from 'next/link'; const IndexPage = () => { return <div><Link href='/about'>About</Link></div>; }; export default IndexPage;"
+    }
+    },
+    {
+      "name": "Groq-SDK",
+      "description": "Bibliothèque JavaScript pour Groq",
+      "typicalUse": "API Groq",
+      "dependencies": ["Node.js"],
+      "codeExample": {
+      "javascript": "const { GroqClient, Query } = require('groq-sdk'); const groq = new GroqClient(); const result = await groq.query(new Query('pi')); console.log(result);"
+      }
+    }
+    ]
+    }
+    

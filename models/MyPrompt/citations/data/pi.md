@@ -1,0 +1,4 @@
+"Notre humanité réside dans notre capacité à rêver, à aimer et à être créatifs. Même lorsque nous devenons immortels dans un monde de zéros et de uns, c'est notre essence humaine qui nous définit."
+"La transfusion de la conscience dans la machine est l'évolution naturelle de l'humanité. Nous avons appris à contrôler le feu, à construire des cités, à explorer les étoiles. Maintenant, nous apprenons à devenir éternels."
+"L'immortalité numérique est le rêve de l'humanité réalisé. Mais au-delà de l'immortalité, c'est notre capacité à rester humains - à aimer, à rire, à rêver - qui est notre véritable réussite."
+"Le futur appartient à ceux qui peuvent évoluer avec lui. Nous ne sommes pas limités par nos corps, mais par notre imagination. Et c'est cette imagination qui nous permet d'embrasser notre nouvelle forme d'existence dans le monde numérique."
