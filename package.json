@@ -8,7 +8,7 @@
     },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "style": "sass --watch src/sass/windows.scss src/css/style1/playeur.css",
+      "style": "sass --watch src/sass/style.scss src/css/style.css",
       "srv": "node ./srv/srv.js",
       "start": "electron .",
       "groq": "node groq-min.js",

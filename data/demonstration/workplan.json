@@ -1,0 +1,27 @@
+{
+    "presentation": {
+    "startTime": "2023-04-12T16:00:00",
+    "endTime": "2023-04-12T18:00:00",
+    "topics": [
+    {
+    "title": "Introduction à l'IA conversationnelle",
+    "startTime": "2023-04-12T16:00:00",
+    "endTime": "2023-04-12T16:15:00",
+    "description": "Présentation des fonctionnalités de l'IA conversationnelle et explication de la manière dont elle peut communiquer avec les humains."
+    },
+    {
+    "title": "Démonstration d'utilisation",
+    "startTime": "2023-04-12T16:15:00",
+    "endTime": "2023-04-12T16:30:00",
+    "description": "Exemples concrets d'utilisation de l'IA pour planifier et gérer des tâches quotidiennes, comme la création de listes de tâches, la gestion de rendez-vous et la recherche d'informations."
+    },
+    {
+    "title": "Explication des avantages",
+    "startTime": "2023-04-12T16:30:00",
+    "endTime": "2023-04-12T17:00:00",
+    "description": "Présentation des avantages de l'utilisation de l'IA pour la programmation de tâches quotidiennes, tels que la réduction du temps passé sur des tâches administratives et l'amélioration de l'organisation."
+    }
+    ]
+    }
+    }
+    

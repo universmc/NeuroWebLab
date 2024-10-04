@@ -4,7 +4,7 @@ const { contextBridge, ipcRenderer } = require('electron');
 contextBridge.exposeInMainWorld('electronAPI', {
   generateChatCompletion: async (prompt) => {
     try {
-      const response = await fetch('http://localhost:3144/generate', {
+      const response = await fetch('http://localhost:3142/compose', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ prompt })
