@@ -70,11 +70,13 @@ main {
   min-width: 100vh;
   min-height: 80vh;
 }
+
 .mainContent {
-  display:flex;
-  width:96%;
-  flex-direction:column;
+  display: flex;
+  width: 96%;
+  flex-direction: column;
 }
+
 .bg-content {
   width: 90%;
   height: 90%;

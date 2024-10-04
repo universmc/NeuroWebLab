@@ -1,0 +1,42 @@
+{
+    "title": "Exploration de l'IA générative et conversationnelle dans le développement Web",
+    "duration_total": "60 minutes",
+    "segments": [
+      {
+        "title": "Introduction",
+        "duration": "5 minutes",
+        "timestamp_start": "00:00",
+        "timestamp_end": "05:00",
+        "description": "Brève présentation et aperçu des sujets abordés."
+      },
+      {
+        "title": "Discussion sur l'IA générative",
+        "duration": "10 minutes",
+        "timestamp_start": "05:00",
+        "timestamp_end": "15:00",
+        "description": "Avantages et défis de l'IA générative dans le développement Web. Exemples concrets de génération de contenu Web via IA."
+      },
+      {
+        "title": "Démonstration d'outils et ateliers",
+        "duration": "20 minutes",
+        "timestamp_start": "15:00",
+        "timestamp_end": "35:00",
+        "description": "Génération d'images avec OpenAI. Génération de pages Web avec Groq. Atelier interactif pour les participants."
+      },
+      {
+        "title": "Utilisation de l'IA conversationnelle",
+        "duration": "15 minutes",
+        "timestamp_start": "35:00",
+        "timestamp_end": "50:00",
+        "description": "Optimisation des workflows avec IA conversationnelle. Intégration dans des projets Web."
+      },
+      {
+        "title": "Questions-réponses et conclusion",
+        "duration": "10 minutes",
+        "timestamp_start": "50:00",
+        "timestamp_end": "60:00",
+        "description": "Réponses aux questions des participants et récapitulatif des points clés."
+      }
+    ]
+  }
+  
